@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wyj0602.github.io/2025/04/04/React/react%E5%9F%BA%E7%A1%8004/</loc>
+    <loc>https://wyj0602.github.io/2024/03/17/TypeScript%E6%9E%81%E9%80%9F%E6%A2%B3%E7%90%86/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2025/01/02/Web-APIS/Web-apis01/</loc>
     <lastmod>2025-04-28</lastmod>
   </url>
   <url>
@@ -14,6 +18,10 @@
   </url>
   <url>
     <loc>https://wyj0602.github.io/2025/03/25/React/react%E5%9F%BA%E7%A1%8001/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2025/04/04/React/react%E5%9F%BA%E7%A1%8004/</loc>
     <lastmod>2025-04-28</lastmod>
   </url>
   <url>
@@ -37,10 +45,6 @@
     <lastmod>2025-04-28</lastmod>
   </url>
   <url>
-    <loc>https://wyj0602.github.io/2025/01/02/Web-APIS/Web-apis01/</loc>
-    <lastmod>2025-04-28</lastmod>
-  </url>
-  <url>
     <loc>https://wyj0602.github.io/2024/05/24/JavaScript%E8%BF%9B%E9%98%B6/JavaScript%E8%BF%9B%E9%98%B6%E7%AC%AC%E4%B8%80%E5%A4%A9/</loc>
     <lastmod>2025-04-28</lastmod>
   </url>
@@ -55,9 +59,5 @@
   <url>
     <loc>https://wyj0602.github.io/2024/05/27/JavaScript%E8%BF%9B%E9%98%B6/JavaScript%E8%BF%9B%E9%98%B6%E7%AC%AC%E4%BA%8C%E5%A4%A9/</loc>
     <lastmod>2025-04-28</lastmod>
-  </url>
-  <url>
-    <loc>https://wyj0602.github.io/2024/03/17/TypeScript%E6%9E%81%E9%80%9F%E6%A2%B3%E7%90%86/</loc>
-    <lastmod>2025-04-26</lastmod>
   </url>
 </urlset> 
