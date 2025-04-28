@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://wyj0602.github.io/2024/09/25/Vue3%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2024/04/16/CSS%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2025/01/23/Web-APIS/Web-apis04/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2025/01/16/Web-APIS/Web-apis03/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2025/01/05/Web-APIS/Web-apis02/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2025/01/02/Web-APIS/Web-apis01/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2024/05/24/JavaScript%E8%BF%9B%E9%98%B6/JavaScript%E8%BF%9B%E9%98%B6%E7%AC%AC%E4%B8%80%E5%A4%A9/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2024/06/18/JavaScript%E8%BF%9B%E9%98%B6/JavaScript%E8%BF%9B%E9%98%B6%E7%AC%AC%E5%9B%9B%E5%A4%A9/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2024/06/14/JavaScript%E8%BF%9B%E9%98%B6/JavaScript%E8%BF%9B%E9%98%B6%E7%AC%AC%E4%B8%89%E5%A4%A9/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://wyj0602.github.io/2024/05/27/JavaScript%E8%BF%9B%E9%98%B6/JavaScript%E8%BF%9B%E9%98%B6%E7%AC%AC%E4%BA%8C%E5%A4%A9/</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
     <loc>https://wyj0602.github.io/2024/03/17/TypeScript%E6%9E%81%E9%80%9F%E6%A2%B3%E7%90%86/</loc>
     <lastmod>2025-04-26</lastmod>
-  </url>
-  <url>
-    <loc>https://wyj0602.github.io/2024/05/25/Vue3%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/</loc>
-    <lastmod>2025-04-26</lastmod>
-  </url>
-  <url>
-    <loc>https://wyj0602.github.io/2025/04/21/hello-world/</loc>
-    <lastmod>2025-04-26</lastmod>
-  </url>
-  <url>
-    <loc>https://wyj0602.github.io/2024/04/21/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2025-04-25</lastmod>
   </url>
 </urlset> 
